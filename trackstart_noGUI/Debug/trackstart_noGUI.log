@@ -1,0 +1,13 @@
+﻿  trackstart_noGUI.cpp
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(104): warning C4244: '正在初始化': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(126): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(142): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(159): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(162): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(166): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(177): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(180): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\nccu\hc\project\trackstart_nogui\trackstart_nogui\trackstart_nogui.cpp(184): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  trackstart_noGUI.vcxproj -> D:\NCCU\HC\project\trackstart_noGUI\Debug\trackstart_noGUI.exe
+  D:\NCCU\HC\TobiiEyeXSdk-Cpp-1.8.498\lib\x86\Tobii.EyeX.Client.dll
+  複製了         1 個檔案。
